@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="center">My stack</h3>
+<h3 align="center">My stack:</h3>
 <div align="center" data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
